@@ -1,0 +1,6 @@
+{
+  "name": "personal-tools",
+  "version": "1.0.0",
+  "description": "Yash's Obsidian MCP server + logging hooks",
+  "author": { "name": "Yash" }
+}

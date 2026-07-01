@@ -1,0 +1,18 @@
+{
+  "name": "yash-personal",
+  "owner": { "name": "Yash" },
+  "plugins": [
+    {
+      "name": "personal-skills",
+      "description": "Personal Android/KMP/Compose/design skills",
+      "source": "./plugins/personal-skills",
+      "version": "1.0.0"
+    },
+    {
+      "name": "personal-tools",
+      "description": "Obsidian MCP server + session logging hooks",
+      "source": "./plugins/personal-tools",
+      "version": "1.0.0"
+    }
+  ]
+}

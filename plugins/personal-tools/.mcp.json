@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "obsidian": {
+      "command": "/home/wolzard/.local/bin/obsidian-mcp-server",
+      "env": {
+        "OBSIDIAN_API_KEY": "${OBSIDIAN_API_KEY}",
+        "OBSIDIAN_BASE_URL": "${OBSIDIAN_BASE_URL:-http://127.0.0.1:27123}"
+      }
+    }
+  }
+}
