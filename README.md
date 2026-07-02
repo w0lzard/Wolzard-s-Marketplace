@@ -14,9 +14,9 @@ This marketplace does **not** vendor third-party skill packs. `android-testing-s
 ## Install
 
 ```
-/plugin marketplace add <your-username>/yash-personal
-/plugin install personal-skills@yash-personal
-/plugin install personal-tools@yash-personal
+/plugin marketplace add <your-username>/Wolzard-s-Marketplace
+/plugin install personal-skills@Wolzard-s-Marketplace
+/plugin install personal-tools@Wolzard-s-Marketplace
 ```
 
 Then `/reload-plugins`.
